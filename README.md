@@ -49,6 +49,6 @@ Here's a brief overview of what this script does:
 **Important:** Avoid verifying multiple phone numbers without sending notifications, as this might lead to a WhatsApp ban! Be thoughtful and considerate while using this script.
 
 ## Additional Resources 📚
-For more details on sending notifications, check out the official Blip AI documentation.
+For more details on sending notifications, check out the official [Blip AI documentation](https://docs.blip.ai/#sending-notifications).
 
 Happy coding! 🎉
