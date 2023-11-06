@@ -1,6 +1,6 @@
 # README 📘
 
-Welcome to our awesome Python script repository that seamlessly interacts with Google BigQuery to fetch data from a database and sends delightful notifications via WhatsApp! 🚀
+This repository contains a Python script that interacts with Google BigQuery to fetch data from a database and sends delightful notifications via WhatsApp! 🚀
 
 ## Setup 🛠️
 
@@ -25,7 +25,7 @@ Run the script with the following command:
 python script_name.py
 ```
 
-Watch the magic unfold! The script will query your BigQuery database, validate user identity, and send personalized notifications to your users.
+The script will query your BigQuery database, validate user identity, and send personalized notifications to your users.
 
 ## Code Explanation 💻
 
@@ -46,4 +46,9 @@ Here's a brief overview of what this script does:
 
 ## Warning ⚠️
 
-**Important:** Avoid verifying multiple phone numbers without sending notifications, as this might lead to a WhatsApp ban! Be thoughtful and considerate while using this script. Happy coding! 🎉
+**Important:** Avoid verifying multiple phone numbers without sending notifications, as this might lead to a WhatsApp ban! Be thoughtful and considerate while using this script.
+
+Additional Resources 📚
+For more details on sending notifications, check out the official Blip AI documentation.
+
+Happy coding! 🎉
