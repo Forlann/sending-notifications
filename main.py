@@ -5,7 +5,7 @@ import os
 teamplate_name = '<YOUR_TEAMPLATE_NAME>'
 
 # JSON key provided by Google
-json_key = 'bigquery.json'
+json_key = 'bigquery_credencials.json'
 
 client = get_client(json_key_file=json_key, readonly=True)
 
