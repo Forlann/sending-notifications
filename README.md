@@ -45,4 +45,4 @@ Please ensure that you have the necessary permissions and access rights to run q
 
 ## Warning
 
-Do not verify many phones whitout send them a notification otherwise you will be banned from whatsapp!
+Do NOT verify many phones without send them a notification otherwise you will be banned from whatsapp!
